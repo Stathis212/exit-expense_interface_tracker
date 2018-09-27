@@ -1,0 +1,26 @@
+{
+  "name": "exit-expense_interface_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack --mode=development",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stathis212/exit-expense_interface_tracker.git"
+  },
+  "author": "stathis212",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stathis212/exit-expense_interface_tracker/issues"
+  },
+  "homepage": "https://github.com/Stathis212/exit-expense_interface_tracker#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.1.1"
+  },
+  "dependencies": {
+    "webpack": "^4.20.2"
+  }
+}
